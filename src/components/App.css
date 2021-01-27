@@ -1,0 +1,26 @@
+.container  {
+  margin: 0 auto;
+  height: 100%;
+  width: 25%;
+}
+
+input {
+  width: 100%;
+  padding: 12px 8px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.select {
+  margin-bottom: 10px;
+}
+
+.employee-info {
+  padding-left: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #000;
+  border-radius: 4px;
+}
